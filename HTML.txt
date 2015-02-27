@@ -1,0 +1,23 @@
+<html>
+ // Curriculum IPC1_A
+
+<head>
+ // Curriculum IPC1_A
+</head>
+
+<body>
+ <table>
+  <tr>
+       <th> Nombre </th>
+       <th> Carné </th>
+       <th> Imagen </th>
+
+  <tr>
+       <td> Luis Roberto Rivera Alvarez </td>
+       <td> 201325541 </td>
+       <td> <img src="http://ces2601.blogspot.com/2012/03/la-facultad-de-ingenieria-de-la-usac-de.html" alt="Facultad de Ingeniería"> </td>
+  </tr>
+
+ </table>
+</body>
+</html>
